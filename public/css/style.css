@@ -247,9 +247,9 @@ img {
   color: var(--black);
 }
 
-.article {
+/* .article {
   white-space: pre-wrap;
-}
+} */
 
 .footer {
   margin: 4rem;
